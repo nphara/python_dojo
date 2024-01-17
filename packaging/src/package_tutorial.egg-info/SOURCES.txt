@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/package_tutorial.egg-info/PKG-INFO
+src/package_tutorial.egg-info/SOURCES.txt
+src/package_tutorial.egg-info/dependency_links.txt
+src/package_tutorial.egg-info/top_level.txt
+src/tutorial/__init__.py
+src/tutorial/packaging.py
